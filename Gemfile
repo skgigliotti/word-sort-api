@@ -38,3 +38,5 @@ group :development do
 end
 
 gem 'annotate'
+
+gem 'fast_jsonapi'
